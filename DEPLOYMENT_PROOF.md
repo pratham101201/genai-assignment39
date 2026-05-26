@@ -2,7 +2,7 @@
 
 ## GitHub Repository
 Add your GitHub repository URL here:
-https://github.com/YOUR_USERNAME/YOUR_REPO
+https://github.com/pratham101201/genai-assignment39
 
 ---
 
