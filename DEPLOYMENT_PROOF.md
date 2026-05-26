@@ -9,34 +9,20 @@ https://github.com/pratham101201/genai-assignment39
 ## Streamlit Cloud Deployment
 
 ### Live URL
-https://your-streamlit-app.streamlit.app/
+https://genai-assignment39-hoydgbmjwq6vjvs6rye2lb.streamlit.app/
 
-### Screenshots to Add
-- Deployment dashboard
-- Working application
-- Secrets configuration
 
-### Test Results
-Question Asked:
-Answer Received:
 
----
+
 
 ## Hugging Face Spaces Deployment
 
 ### Live URL
-https://huggingface.co/spaces/YOUR_USERNAME/YOUR_SPACE
+https://huggingface.co/spaces/Patel101213/chatboat
 
-### Screenshots to Add
-- Space dashboard
-- Running application
-- Settings/Secrets page
 
-### Test Results
-Question Asked:
-Answer Received:
 
----
+
 
 ## Issues Faced & Solutions
 
